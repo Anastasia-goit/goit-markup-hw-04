@@ -197,10 +197,7 @@ img {
 
 }
 
-.icon {
-   
-    
-}
+
 
 .icon-block {
     border: 1px solid #8e8f99;
@@ -497,11 +494,8 @@ img {
 }
 
 .container-main-footer {
-    margin: 0 auto;
-    padding: 0 15px;
-    max-width: 1158px;
+    margin-right: 120px;
    
-    
 }
 
 .logo-footer {
